@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeyvier
+- 👋 Hi, I’m @KandikaPrima
 - 👀 I’m interested in Data Science, WEB and Python
 - 🌱 I’m currently learning WEB & Data Science
 - 💞️ I’m looking to collaborate on ...
